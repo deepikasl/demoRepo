@@ -433,4 +433,3 @@ pipelines:
             - echo "manaul_trigger"
 
             
-            
